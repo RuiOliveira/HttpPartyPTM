@@ -18,5 +18,5 @@ API Example on test - https://github.com/fredmoreira/register-employees
 
 #### Run
 
-- rspec test-httparty.rb
-- rspec test-httparty.rb --format=documentation --> for more details.
+- rspec test-httparty-register-employees.rb
+- rspec test-httparty-register-employees.rb --format=documentation --> for more details.
